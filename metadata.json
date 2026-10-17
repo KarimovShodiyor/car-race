@@ -1,0 +1,6 @@
+{
+  "name": "CYBERPULSE 2099: Neon Velocity 3D Racing",
+  "description": "High-octane futuristic 3D cyberpunk racing game featuring neon megacities, dynamic physics, drifting, nitro boost, AI rivals, career & endless highway modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
